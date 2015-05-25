@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename package &apos;com.sancang.httpget&apos; to &apos;com.sancang.httppost&apos;&#x0D;&#x0A;- Original project: &apos;HttpPost&apos;&#x0D;&#x0A;- Original element: &apos;HttpPost/src/com.sancang.httpget&apos;&#x0D;&#x0A;- Renamed element: &apos;HttpPost/src/com.sancang.httppost&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename package &apos;com.sancang.httpget&apos;" flags="589830" hierarchical="false" id="org.eclipse.jdt.ui.rename.package" input="/src&lt;com.sancang.httpget" name="com.sancang.httppost" qualified="false" references="true" stamp="1432559950196" textual="false" version="1.0"/>
+</session>
