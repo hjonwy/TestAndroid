@@ -1,2 +1,2 @@
 eclipse.preferences.version=1
-task-tag-projects-already-scanned=HttpGet,HttpPost
+task-tag-projects-already-scanned=HttpGet,HttpPost,HttpClient,MySocketClient,TestMyServerSocket
